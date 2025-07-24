@@ -1,1 +1,0 @@
-git clone https://github.com/LabAssist-CenTaD/labassist-prelim-llm.git --depth 1
